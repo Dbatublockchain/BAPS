@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BAPS/static/css/main.35a24e37.chunk.css",
+    "main.js": "/BAPS/static/js/main.1574f099.chunk.js",
+    "main.js.map": "/BAPS/static/js/main.1574f099.chunk.js.map",
+    "runtime-main.js": "/BAPS/static/js/runtime-main.172ef918.js",
+    "runtime-main.js.map": "/BAPS/static/js/runtime-main.172ef918.js.map",
+    "static/css/2.4c34b247.chunk.css": "/BAPS/static/css/2.4c34b247.chunk.css",
+    "static/js/2.12a4731c.chunk.js": "/BAPS/static/js/2.12a4731c.chunk.js",
+    "static/js/2.12a4731c.chunk.js.map": "/BAPS/static/js/2.12a4731c.chunk.js.map",
+    "static/js/3.ea39b974.chunk.js": "/BAPS/static/js/3.ea39b974.chunk.js",
+    "static/js/3.ea39b974.chunk.js.map": "/BAPS/static/js/3.ea39b974.chunk.js.map",
+    "index.html": "/BAPS/index.html",
+    "static/css/2.4c34b247.chunk.css.map": "/BAPS/static/css/2.4c34b247.chunk.css.map",
+    "static/css/main.35a24e37.chunk.css.map": "/BAPS/static/css/main.35a24e37.chunk.css.map",
+    "static/js/2.12a4731c.chunk.js.LICENSE.txt": "/BAPS/static/js/2.12a4731c.chunk.js.LICENSE.txt",
+    "static/media/empty_data_set.88c7d759.png": "/BAPS/static/media/empty_data_set.88c7d759.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.172ef918.js",
+    "static/css/2.4c34b247.chunk.css",
+    "static/js/2.12a4731c.chunk.js",
+    "static/css/main.35a24e37.chunk.css",
+    "static/js/main.1574f099.chunk.js"
+  ]
+}
