@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/BAPS/static/css/main.35a24e37.chunk.css",
-    "main.js": "/BAPS/static/js/main.37721af1.chunk.js",
-    "main.js.map": "/BAPS/static/js/main.37721af1.chunk.js.map",
-    "runtime-main.js": "/BAPS/static/js/runtime-main.18f8931a.js",
-    "runtime-main.js.map": "/BAPS/static/js/runtime-main.18f8931a.js.map",
-    "static/css/2.4c34b247.chunk.css": "/BAPS/static/css/2.4c34b247.chunk.css",
-    "static/js/2.7068d6a2.chunk.js": "/BAPS/static/js/2.7068d6a2.chunk.js",
-    "static/js/2.7068d6a2.chunk.js.map": "/BAPS/static/js/2.7068d6a2.chunk.js.map",
-    "static/js/3.273157a3.chunk.js": "/BAPS/static/js/3.273157a3.chunk.js",
-    "static/js/3.273157a3.chunk.js.map": "/BAPS/static/js/3.273157a3.chunk.js.map",
+    "main.css": "/BAPS/static/css/main.aef67182.chunk.css",
+    "main.js": "/BAPS/static/js/main.bbbd589a.chunk.js",
+    "main.js.map": "/BAPS/static/js/main.bbbd589a.chunk.js.map",
+    "runtime-main.js": "/BAPS/static/js/runtime-main.678967f6.js",
+    "runtime-main.js.map": "/BAPS/static/js/runtime-main.678967f6.js.map",
+    "static/css/2.c4e73993.chunk.css": "/BAPS/static/css/2.c4e73993.chunk.css",
+    "static/js/2.c339200b.chunk.js": "/BAPS/static/js/2.c339200b.chunk.js",
+    "static/js/2.c339200b.chunk.js.map": "/BAPS/static/js/2.c339200b.chunk.js.map",
+    "static/js/3.07f3072f.chunk.js": "/BAPS/static/js/3.07f3072f.chunk.js",
+    "static/js/3.07f3072f.chunk.js.map": "/BAPS/static/js/3.07f3072f.chunk.js.map",
     "index.html": "/BAPS/index.html",
-    "static/css/2.4c34b247.chunk.css.map": "/BAPS/static/css/2.4c34b247.chunk.css.map",
-    "static/css/main.35a24e37.chunk.css.map": "/BAPS/static/css/main.35a24e37.chunk.css.map",
-    "static/js/2.7068d6a2.chunk.js.LICENSE.txt": "/BAPS/static/js/2.7068d6a2.chunk.js.LICENSE.txt",
+    "static/css/2.c4e73993.chunk.css.map": "/BAPS/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.aef67182.chunk.css.map": "/BAPS/static/css/main.aef67182.chunk.css.map",
+    "static/js/2.c339200b.chunk.js.LICENSE.txt": "/BAPS/static/js/2.c339200b.chunk.js.LICENSE.txt",
     "static/media/empty_data_set.88c7d759.png": "/BAPS/static/media/empty_data_set.88c7d759.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.18f8931a.js",
-    "static/css/2.4c34b247.chunk.css",
-    "static/js/2.7068d6a2.chunk.js",
-    "static/css/main.35a24e37.chunk.css",
-    "static/js/main.37721af1.chunk.js"
+    "static/js/runtime-main.678967f6.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.c339200b.chunk.js",
+    "static/css/main.aef67182.chunk.css",
+    "static/js/main.bbbd589a.chunk.js"
   ]
 }
